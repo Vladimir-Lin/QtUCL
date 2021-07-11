@@ -1,1 +1,1 @@
-# QtUCL
+# AITK QtUCL for Qt
